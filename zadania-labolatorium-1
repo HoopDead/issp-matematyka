@@ -62,4 +62,23 @@ I:
 
 ==========================================================================
 
+Zadanie 3.a
+
+Polecenie: simplify(x^3-1)/(x-1)
+
+Odpowiedź: x^2 + x + 1
+
+Zadanie 3.b
+
+Polecenie: draw sin(x^2)/x
+
+Odpowiedź: Odpowiedź znajduje się w sekcji Plots.
+
+Zadanie 3.c
+
+Polecenie: draw sin(x^2)/x from 10 to 20
+
+Odpowiedź: Odpowiedź znajduje się w sekcji Plot
+
+
 
