@@ -134,7 +134,7 @@ Polecenie:
 
 Numer permutacji: 15!
 
-T = 15! * t => 15! * 40 * 1/4 * 10^9
+T = 15! * t => 15! * 40 * (1/(4 * 10^9))
 
 t = 40*tc
 
@@ -143,6 +143,12 @@ tc = 1/4 * 10^9 s
 Polecenie w Wolframalpha: 15! * 40 * (1/(4 * 10^9))
 
 Odpowiedź: 13076.74368 sekund czyli ~3,6 godziny.
+
+Dla 20 permutacji: 
+
+Odpowiedź: 6.758061133824 × 10^6 godzin?
+
+
 
 Zadanie 3.m
 
