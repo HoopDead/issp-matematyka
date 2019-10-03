@@ -128,6 +128,50 @@ Polecenie: permutations of {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15}
 
 Odpowiedź: 1307674368000
 
+Zadanie 3.h
+
+Polecenie: KTO WIE
+
+Odpowiedź: CHYBA NIKT
+
+Zadanie 3.m
+
+Polecenie: draw x^2 + y^2 = 1
+
+Odpowiedź: W zakładce Result jest gotowy wykres
+
+Zadanie 3.n
+
+Polecenie: graph x^2 + y^3 = 1
+
+Odpowiedź: W zakładce Implict Plot jest gotowy wykres
+
+Zadanie 3.o
+
+Odpowiedź: 
+
+Polecenie: find asymptotes (x^2 -1)/(x^2-4)
+
+Asymptoty x: {-2, 2}
+Asymptoty y: +- nieskończoność
+
+Zadanie 3.p
+
+Polecenie: find asymptotes (x^2 -1)/(x-2)
+
+Odpowiedź:
+
+Asymptoty x: 2
+
+Asymptota skośna: x+2
+
+Zadanie 3.q
+
+Polecenie: solve sin(x) = cos(x)
+
+Odpowiedź: Plik zadanie3q.png
+
+
 
 
 
