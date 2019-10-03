@@ -128,11 +128,21 @@ Polecenie: permutations of {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15}
 
 Odpowiedź: 1307674368000
 
-Zadanie 3.h
+Zadanie 3.l
 
-Polecenie: KTO WIE
+Polecenie:
 
-Odpowiedź: CHYBA NIKT
+Numer permutacji: 15!
+
+T = 15! * t => 15! * 40 * 1/4 * 10^9
+
+t = 40*tc
+
+tc = 1/4 * 10^9 s
+
+Polecenie w Wolframalpha: 15! * 40 * (1/(4 * 10^9))
+
+Odpowiedź: 13076.74368 sekund czyli ~3,6 godziny.
 
 Zadanie 3.m
 
