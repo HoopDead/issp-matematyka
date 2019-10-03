@@ -80,5 +80,55 @@ Polecenie: draw sin(x^2)/x from 10 to 20
 
 Odpowiedź: Odpowiedź znajduje się w sekcji Plot
 
+Zadanie 3.d
+
+Polecenie: simplify sin2a
+
+Odpowiedź: 2 sin(a) cos(a)
+
+Zadanie 3.e
+
+Polecenie: sum 1/n n=1 to 10000
+
+Odpowiedź: 9.787606036044382264178477904851605334859262945577691718389...
+
+Zadanie 3.f
+
+Polecenie: sum (1/n)^2 n=1 to infinity
+
+Odpowiedź: n^2/6
+
+Zadanie 3.g
+
+Polecenie: factorize 1234567890
+
+Odpowiedź: 2×3^2×5×3607×3803 (6 prime factors, 5 distinct)
+
+Zadanie 3.h
+
+Polecenie: expand (x+1)(x-2)
+
+Odpowiedź: x^2 - x - 2
+
+Zadanie 3.i
+
+Polecenie: factor 2 – 5 x – 3 x2
+
+Odpowiedź: -(3 x - 1) (x + 2)
+
+Zadanie 3.j
+
+Polecenie: 49 choose 6
+
+Odpowiedź: 13983816
+
+Zadanie 3.k
+
+Polecenie: permutations of {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15}
+
+Odpowiedź: 1307674368000
+
+
+
 
 
