@@ -1,0 +1,31 @@
+1. Oblicz sin 20
+
+Polecenie: sin(20*pi/180)
+Odpowiedź: 0.34202
+
+2. Która liczba jest większa 10**11 czy 11**10
+Odpowiedź: 10**11
+
+3. Polecenie: sqrt(-1), i*i.
+
+5: Polecenie: output_precision(10)
+pi ** pi
+Odpowiedź: 36.46215961
+
+4. Polecenie: log(-1)
+Odpowiedź: 3.14159i
+
+6. Odpowiedź: Można to sprawdzić poprzez zastosowanie komendy format long i zobaczenie że w kolejnych miejscach po przecinku liczby się znacząco różnią.
+
+7. Polecenie: nchoosek(49, 6)
+Odpowiedź: 13983816
+
+8. 
+
+9.
+
+* cos(i) = 1.5431 - jest większa od 1.
+
+* Tak, sin(i)**2 + cos(i)**2 = 1
+
+* Można zaryzykować - liczby te mają dokładnie takie same miejsca po przecinku, nawet na 40 miejscu.

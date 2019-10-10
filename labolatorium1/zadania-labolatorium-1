@@ -140,13 +140,13 @@ t = 40*tc
 
 tc = 1/4 * 10^9 s
 
-Polecenie w Wolframalpha: 15! * 40 * (1/(4 * 10^9))
+Polecenie w Wolframalpha: 6.758061133824 × 10^6
 
 Odpowiedź: 13076.74368 sekund czyli ~3,6 godziny.
 
 Dla 20 permutacji: 
 
-Odpowiedź: 6.758061133824 × 10^6 godzin?
+Odpowiedź: 6.758061133824 × 10^6 godzin? 770.955955498 lat?
 
 
 
